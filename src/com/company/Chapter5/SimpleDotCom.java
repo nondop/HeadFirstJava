@@ -1,4 +1,4 @@
-package com.company.Chapter6;
+package com.company.Chapter5;
 
 public class SimpleDotCom {
     int [] locationCells;
